@@ -1,0 +1,10 @@
+= DESCRIPTION:
+
+Installs and configures a Ximdex Publishing server on the server
+
+= REQUIREMENTS:
+
+= ATTRIBUTES: 
+
+= USAGE:
+
